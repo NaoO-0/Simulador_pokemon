@@ -1,0 +1,1 @@
+En este programa se simulara la jugabilidad de un juego de pokemon usando los métodos, constructores, destructores, paso de parámetros, ámbito de variables, métodos de clase y de instancia, y sobrecarga de métodos.
